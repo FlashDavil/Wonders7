@@ -14,6 +14,7 @@ html {
 
 body {
     background: inherit;
+    padding: env(safe-area-inset, 0)
 }
 
 header {
